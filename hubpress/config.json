@@ -2,7 +2,8 @@
   "meta": {
     "username": "zhanwangchen",
     "repositoryName": "zhanwangchen.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "zhanwang chen",
+    "description": "陈展望",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "zhanwang.c@gmail.com",
+    "github": "https://github.com/zhanwangchen",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/zhanwangc",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
