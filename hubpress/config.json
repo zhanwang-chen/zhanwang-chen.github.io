@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "zhanwangchen",
-    "repositoryName": "zhanwangchen.github.io",
+    "username": "zhanwang-chen",
+    "repositoryName": "zhanwang-chen.github.io",
     "branch": "master",
     "cname": ""
   },
@@ -36,7 +36,7 @@
     "delay": "",
     "postsPerPage": "",
     "blogPath": "",
-    "googleAnalytics": "119030239",
+    "googleAnalytics": "",
     "disqus": ""
   },
   "socialnetwork": {
